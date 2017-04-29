@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">MyContact</string>
+  <string name="action_settings">Settings</string>
+  <string name="add_data_title">Add this contact?</string>
+  <string name="add_data_message">Are you sure to add this contact?</string>
+  <string name="update_data_title">Update this contact?</string>
+  <string name="update_data_message">Are you sure to update this contact?</string>
+  <string name="delete_title">Delete this contact?</string>
+  <string name="delete_message">Are you sure to delete this contact?</string>
+</resources>
