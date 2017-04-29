@@ -92,6 +92,7 @@ public class DBConnect extends SQLiteOpenHelper {
     values.put(Contact.Column.ID, contact.getId());
     values.put(Contact.Column.FIRST_NAME, contact.getFirstName());
     values.put(Contact.Column.LAST_NAME, contact.getLastName());
+    values.put(Contact.Column.TEL, contact.getTel());
     values.put(Contact.Column.EMAIL, contact.getEmail());
     values.put(Contact.Column.DESCRIPTION, contact.getDescription());
 
